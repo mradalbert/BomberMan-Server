@@ -1,0 +1,11 @@
+#
+#Mon Mar 13 19:46:28 CET 2017
+screenWidth=16
+screenHeight=16
+mapObjects=wwwwwwwwwwwwwwwwwpoppooowwwooppwwpwopppoopwppwpwwpwwwwwwwpwwwppwwoowowopppwpoppwwppwppppppwooppwwwwwooowwwwpwppwwwooppwwwwwpwppwwwwwwppwoowwwoowwwppoopopppopppppppppwwwwwpopwwwwoowwoppowppoopppppwwwwppwwwwwpppppoowwppppppppwwppppooppwwwppowwwwwwwwwwwwwwwww
+multibombPositions=100
+superbombPositions=18 21 35
+cherryPosition=125
+eliminationPosition=120
+enemyPositions=78 123 150
+heroPosition=17
